@@ -4,7 +4,7 @@ public class Person {
 
     public Person() {
         name = "CSE";
-        age = 40;
+        age = 30;
     }
     public Person(String name, int age) {
         this.name = name;
